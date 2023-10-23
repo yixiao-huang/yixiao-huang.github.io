@@ -4,3 +4,15 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"BHI":
+  url: https://www.embs.org/bhi/
+  color: purple
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"ICBINB@NeurIPS":
+  url: https://icbinb.github.io/
+  color: "#e5ccff"

@@ -32,3 +32,27 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+  
+"Ildiz":
+  - firstname: ["M. Emrullah", 'Emrullah']
+    url: https://dblp.org/pid/220/5398.html
+  
+"Oymak":
+  - firstname: ["Samet", 'S.']
+    url: https://intra.ece.ucr.edu/~oymak/
+
+"Li":
+  - firstname: ["Yingcong"]
+    url: https://dblp.org/pid/244/4435.html
+
+"Rawat":
+  - firstname: ["Ankit Singh"]
+    url: https://ankitsrawat.github.io/home/index.html
+
+"Liu":
+  - firstname: ["Chen"]
+    url: https://liuchen1993.cn/HomePage/index.html
+
+"Chan":
+  - firstname: ["Rosa H. M.", "Rosa"]
+    url: https://cityucompuneurolab.github.io/rosa.html
