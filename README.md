@@ -171,13 +171,13 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
 
 ## Table Of Contents
 
+- [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
   - [Table Of Contents](#table-of-contents)
   - [Getting started](#getting-started)
     - [Installation](#installation)
       - [Local setup using Docker (Recommended)](#local-setup-using-docker-recommended)
-      - [Local Setup (Legacy)](#local-setup-legacy)
       - [Deployment](#deployment)
       - [Upgrading from a previous version](#upgrading-from-a-previous-version)
     - [FAQ](#faq)
@@ -253,18 +253,7 @@ $ docker compose up --build
 
 </details>
 
----
 
-#### Local Setup (Legacy)
-
-Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*), and also [Python](https://www.python.org/) and [pip](https://pypi.org/project/pip/) (*hint: for ease of managing python packages, consider using a virtual environment, like [venv](https://docs.python.org/pt-br/3/library/venv.html) or [conda](https://docs.conda.io/en/latest/). If you will use only `jupyter`, you can use [pipx](https://pypa.github.io/pipx/)*).
-
-```bash
-$ bundle install
-# assuming pip is your Python package manager
-$ pip install jupyter
-$ bundle exec jekyll serve --lsi
-```
 
 Now, feel free to customize the theme however you like (don't forget to change the name!).
 After you are done, **commit** your final changes.
@@ -482,8 +471,8 @@ In publications, the author entry for yourself is identified by string array `sc
 
 ```yaml
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Yixiao]
+  first_name: [Huang]
 ```
 
 If the entry matches one form of the last names and the first names, it will be underlined.
@@ -533,7 +522,7 @@ There are several custom bibtex keywords that you can use to affect how the entr
 - `website`: Adds a "Website" button redirecting to the specified link
 - `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
 - `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
-
+- `preview`: Add a preview gif / picture
 You can implement your own buttons by editing the bib.html file.
 
 </details>
