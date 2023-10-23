@@ -16,13 +16,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - CityU Scholarship
     - year: 2022
       items: 
-        - The College of Engineering Dean's Scholarships
         - Silver Medal in <a href="https://icpc.global/">the 46th International Collegiate Programming Contest</a> - Asia Kunming Regional
+        - The College of Engineering Dean's Scholarships
+        - HKSAR Government Scholarship Fund (Non-academic Awards) - Talent Development Scholarship
     - year: 2021
       items: 
         - Chi-Li Pao Foundation Scholarships for Academic Outstanding Students
+        - 
 
 
 - title: Misc
