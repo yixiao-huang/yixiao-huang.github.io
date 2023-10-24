@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Yixiao HUANG (Chinese name: 黄一笑). I received my Bachelor's degree in Informaton Engineering in June, 2023 from [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), City University of Hong Kong. I was fortunate to work with [Dr. Rosa CHAN](https://cityucompuneurolab.github.io/rosa.html) who patiently guided me to start my research adventure. Currently I'm a research intern in University of Michigan, Ann Arbor under the supervision of [Dr. Samet Oymak](https://intra.ece.ucr.edu/~oymak/index.html), where I'm investigating the implicit bias of transformers. I'm also interested in designing algorithms with strongly theoretical guarantee to make models robust and generalized well.
+I'm Yixiao HUANG (Chinese name: 黄一笑). I received my Bachelor's degree in Informaton Engineering in June, 2023 from [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), City University of Hong Kong. I was fortunate to work with [Dr. Rosa CHAN](https://cityucompuneurolab.github.io/rosa.html) who patiently guided me to start my research adventure. Currently I'm a research intern in University of Michigan, Ann Arbor under the supervision of [Dr. Samet Oymak](https://intra.ece.ucr.edu/~oymak/index.html), where I'm investigating the implicit bias of transformers. I'm also interested in the theory side of adversarial robustness and generalization property.
 
 
