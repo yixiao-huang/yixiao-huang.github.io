@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm seeking PhD opportunities for Fall 2024 on Machine Learning Theory
+I'm seeking PhD opportunities for Fall 2024 on Machine Learning Theory and optimization. 
