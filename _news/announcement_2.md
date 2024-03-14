@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on the implicit bias of next-token prediction has been accepted by AISTATS 2024! It's also available on [Arxiv](https://arxiv.org/abs/2403.08081).
+Our paper on the implicit bias of next-token prediction has been accepted by AISTATS 2024! It's also available on [arXiv](https://arxiv.org/abs/2403.08081).
