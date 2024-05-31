@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Two papers are accepted by ICML 2024. See you at Vienna.
+Two papers are accepted to ICML 2024. See you at Vienna.
 - [Sparse-PGD](https://arxiv.org/abs/2405.05075)
 - [From Self-Attention to Markov Models](https://arxiv.org/abs/2402.13512)
