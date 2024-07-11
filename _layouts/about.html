@@ -9,6 +9,7 @@ layout: default
             {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
+          <span class="button" onclick="togglePronunciation()">How to pronounce?</span>
         </header>
 
         <article>
@@ -39,7 +40,7 @@ layout: default
 
           <div class="clearfix">
             <div class="pronunciation-container">
-              I'm Yixiao HUANG (Chinese name: 黄一笑. <span class="button" onclick="togglePronunciation()">How to pronounce?</span>). 
+              I'm Yixiao HUANG (Chinese name: 黄一笑). 
               <div id="pronunciation" class="pronunciation-content">
                   My first name can be pronounced as “e-/ɕjɑʊ/”:
                   <audio controls>
