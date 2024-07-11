@@ -8,7 +8,6 @@ layout: default
           <h1 class="post-title">
             {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
-          <p class="desc">{{ page.subtitle }}</p>
           <div class="pronunciation-container">
             <span class="button" onclick="togglePronunciation()">How to pronounce?</span>
             <div id="pronunciation" class="pronunciation-content">
@@ -30,6 +29,7 @@ layout: default
               }
             </script>
           </div>
+          <p class="desc">{{ page.subtitle }}</p>
         </header>
 
         <article>
