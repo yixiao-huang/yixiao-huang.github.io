@@ -9,7 +9,27 @@ layout: default
             {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
-          <span class="button" onclick="togglePronunciation()">How to pronounce?</span>
+          <div class="pronunciation-container">
+            <span class="button" onclick="togglePronunciation()">How to pronounce?</span>
+            <div id="pronunciation" class="pronunciation-content">
+              My first name can be pronounced as “e-/ɕjɑʊ/”:
+              <audio controls>
+                  <source src="assets/audio/name_audio.mp3" type="audio/mpeg">
+                  <source src="assets/audio/name_audio.ogg" type="audio/ogg">
+                  Your browser does not support the audio element.
+              </audio>
+            </div> 
+            <script>
+              function togglePronunciation() {
+                  var content = document.getElementById('pronunciation');
+                  if (content.classList.contains('show')) {
+                      content.classList.remove('show');
+                  } else {
+                      content.classList.add('show');
+                  }
+              }
+            </script>
+          </div>
         </header>
 
         <article>
@@ -39,28 +59,7 @@ layout: default
           {%- endif %}
 
           <div class="clearfix">
-            <div class="pronunciation-container">
-              I'm Yixiao HUANG (Chinese name: 黄一笑). 
-              <div id="pronunciation" class="pronunciation-content">
-                  My first name can be pronounced as “e-/ɕjɑʊ/”:
-                  <audio controls>
-                      <source src="assets/audio/name_audio.mp3" type="audio/mpeg">
-                      <source src="assets/audio/name_audio.ogg" type="audio/ogg">
-                      Your browser does not support the audio element.
-                  </audio>
-              </div> I received my Bachelor's degree in Informaton Engineering in June, 2023 from <a href="https://www.ee.cityu.edu.hk/">Department of Electrical Engineering</a>, City University of Hong Kong. 
-              I'm generally intersted in ML/DL Theory and non-convex optimization. 
-              <script>
-                function togglePronunciation() {
-                    var content = document.getElementById('pronunciation');
-                    if (content.classList.contains('show')) {
-                        content.classList.remove('show');
-                    } else {
-                        content.classList.add('show');
-                    }
-                }
-              </script>
-            </div>
+
             {{ content }}
           </div>
           
