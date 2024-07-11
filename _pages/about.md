@@ -21,8 +21,8 @@ I'm Yixiao HUANG (Chinese name: 黄一笑). <details>
   <summary>How to pronounce:</summary>
   <p>My first name can be pronounced as “e-/ɕjɑʊ/”:</p>
   <audio controls>
-    <source src="path_to_your_audio_file.mp3" type="audio/mpeg">
-    <source src="path_to_your_audio_file.ogg" type="audio/ogg">
+    <source src="assets/audio/name_audio.mp3" type="audio/mpeg">
+    <source src="assets/audio/name_audio.ogg" type="audio/ogg">
     Your browser does not support the audio element.
   </audio>
 </details> I received my Bachelor's degree in Informaton Engineering in June, 2023 from [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), City University of Hong Kong. I'm generally intersted in ML/DL Theory and non-convex optimization. 
