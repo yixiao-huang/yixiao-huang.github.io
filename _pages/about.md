@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm Yixiao HUANG (Chinese name: 黄一笑). <details>
-  <summary>How to pronounce:</summary>
+  <summary>(Click to expand) <strong>How to pronounce:</strong></summary>
   <p>My first name can be pronounced as “e-/ɕjɑʊ/”:</p>
   <audio controls>
     <source src="assets/audio/name_audio.mp3" type="audio/mpeg">
