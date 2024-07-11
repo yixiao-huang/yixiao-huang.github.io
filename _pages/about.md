@@ -22,7 +22,7 @@ I'm Yixiao HUANG (Chinese name: 黄一笑). <div class="pronunciation-container"
     <div id="pronunciation" class="pronunciation-content">
       My first name can be pronounced as "e-/ɕjɑʊ/": 
         <audio controls>
-            <source src="path_to_your_audio_file.mp3" type="audio/mpeg">
+            <source src="assets/audio/name_audio.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
     </div>
