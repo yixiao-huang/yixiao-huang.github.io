@@ -36,3 +36,21 @@
     <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
     <script src="{{ '/assets/js/dark_mode.js' | relative_url | bust_file_cache }}"></script>
     {% endif %}
+
+    <style>
+        .pronunciation-container {
+            margin-top: 20px;
+        }
+        .pronunciation-content {
+            display: none;
+            margin-top: 10px;
+        }
+        .show {
+            display: block;
+        }
+        .button {
+            cursor: pointer;
+            color: var(--global-text-color);
+            text-decoration: underline;
+        }
+    </style>
