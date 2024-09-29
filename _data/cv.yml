@@ -3,7 +3,8 @@
   contents:
     - title: Ph.D. in Computer Science
       institution: University of California, Berkeley
-      year: 2024 - 2029 (expected)
+      year: 2024 - 2029\
+      (expected)
       description: 
     - title: Bachelor of Engineering in Information Engineering
       institution: City University of Hong Kong
@@ -40,7 +41,7 @@
   contents:
     - 
       <p> 
-      <b> Reviewer:</b> AISTATS 2024,2025, ICLR 2025, TMLR
+      <b> Reviewer:</b> AISTATS 2024,2025, ICLR 2025; TMLR
       </p> 
       
 
