@@ -1,6 +1,10 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Computer Science
+      institution: University of California, Berkeley
+      year: 2024 - 2029 (expected)
+      description: 
     - title: Bachelor of Engineering in Information Engineering
       institution: City University of Hong Kong
       year: 2019 - 2023
@@ -17,6 +21,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - ICML 2024 Travel Award
     - year: 2023
       items: 
         - CityU Scholarship
