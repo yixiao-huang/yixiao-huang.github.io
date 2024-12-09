@@ -135,7 +135,10 @@
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
-
+        {%- if entry.award %}
+          <div lass="award"><b><span style="color:#DF5279">{{entry.award}}</span></b></div>
+        {%- endif %}
+        
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
