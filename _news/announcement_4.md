@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers: [Sparse-PGD](https://arxiv.org/abs/2405.05075) and [From Self-Attention to Markov Models](https://arxiv.org/abs/2402.13512) are accepted to ICML 2024. See you at Vienna.
+Two papers: [Sparse-PGD](https://arxiv.org/abs/2405.05075v2) and [From Self-Attention to Markov Models](https://arxiv.org/abs/2402.13512) are accepted to ICML 2024. See you at Vienna.
