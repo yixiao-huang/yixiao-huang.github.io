@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Kowloon, Hong Kong, China</p> 
-    <a href="mailto:yixiao.huang@my.cityu.edu.hk">yixiao.huang@my.cityu.edu.hk</a>
+    <p>Berkeley, CA, United States</p> 
+    <a href="mailto:yixiaoh@berkeley.edu">yixiaoh@berkeley.edu</a>
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
