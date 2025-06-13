@@ -5,6 +5,5 @@ inline: true
 related_posts: false
 ---
 Excited to share two new preprints:
-
-1. [OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models](https://arxiv.org/abs/2505.21347)
-2. [Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers](https://arxiv.org/abs/2506.10887)
+- [OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models](https://arxiv.org/abs/2505.21347)
+- [Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers](https://arxiv.org/abs/2506.10887)
