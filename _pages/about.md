@@ -21,3 +21,4 @@ I'm Yixiao HUANG (Chinese name: 黄一笑) and I'm a second-year PhD student at 
 
 I received my Bachelor's degree in Informaton Engineering in June, 2023 from [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/), City University of Hong Kong. I was fortunate to work with [Prof. Rosa CHAN](https://cityucompuneurolab.github.io/rosa.html) who patiently guided me to start my research adventure. I also had a great time at University of Michigan, working with [Prof. Samet Oymak](https://sota.engin.umich.edu/) on the theoretical foundations of self-attention and hybrid models. 
 
+<span style="color:#DF5279;">I’m looking for a research internship in Summer 2026. I’d be happy to connect if you’re interested in my research!</span>
