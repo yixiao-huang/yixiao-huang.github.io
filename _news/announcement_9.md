@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<span style="color:#DF5279;">I’m looking for a research internship in Summer 2026. I’d be happy to connect if you’re interested in my research!</span>
+I’m looking for a research internship in <span style="color:#DF5279;"> Summer 2026 </span>. I’d be happy to connect if you’re interested in my research!
