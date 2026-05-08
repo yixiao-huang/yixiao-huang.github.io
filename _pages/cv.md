@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: CV_HUANG_Yixiao.pdf
+cv_pdf: CV_HUANG_Yixiao_work.pdf
 description: 
 toc:
   sidebar: left
