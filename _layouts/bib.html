@@ -194,13 +194,14 @@
           {%- if entry.coverage %}
           <!-- Media coverage -->
           <div class="coverage" style="margin-top: 5px;">
-            <span style="font-weight: bold;">Media Coverage:</span>
+            <span style="font-weight: bold;">Media Coverage:</span>&nbsp;
             {%- assign coverage_items = entry.coverage | split: ";" -%}
             {%- for item in coverage_items -%}
               {%- assign parts = item | split: "|" -%}
               {%- assign cov_name = parts[0] | strip -%}
               {%- assign cov_url = parts[1] | strip -%}
-              <a href="{{ cov_url }}">{{ cov_name }}</a>{%- unless forloop.last -%}, {%- endunless -%}
+              {%- unless forloop.first %}, {% endunless -%}
+              <a href="{{ cov_url }}" style="font-style: italic;">{{ cov_name }}</a>
             {%- endfor -%}
           </div>
           {%- endif %}
